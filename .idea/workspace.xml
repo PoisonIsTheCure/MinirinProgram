@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f7303d4-49f3-4cf6-8d00-d86a00e048d4" name="Changes" comment="Fisrt Push : Hello World!">
+    <list default="true" id="5f7303d4-49f3-4cf6-8d00-d86a00e048d4" name="Changes" comment="Added the first line">
+      <change afterPath="$PROJECT_DIR$/src/DateTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinirinGUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinirinGUI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PrincipalProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrincipalProgram.java" afterDir="false" />
     </list>
@@ -63,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656502192305</updated>
-      <workItem from="1656502202803" duration="979000" />
+      <workItem from="1656502202803" duration="7186000" />
     </task>
     <task id="LOCAL-00001" summary="Fisrt Push : Hello World!">
       <created>1656502553121</created>
@@ -72,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656502553121</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added the first line">
+      <created>1656504499367</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656504499367</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fisrt Push : Hello World!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fisrt Push : Hello World!" />
+    <MESSAGE value="Added the first line" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the first line" />
   </component>
 </project>
