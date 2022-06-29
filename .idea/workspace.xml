@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f7303d4-49f3-4cf6-8d00-d86a00e048d4" name="Changes" comment="Added the first line">
-      <change afterPath="$PROJECT_DIR$/src/DateTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinirinGUI.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinirinGUI.java" afterDir="false" />
+    <list default="true" id="5f7303d4-49f3-4cf6-8d00-d86a00e048d4" name="Changes" comment="Added too much stuff, actually , not that much">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DateTime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PrincipalProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrincipalProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +26,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2BFWClTLcnZ6aLJRx4T0g0yzCvj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -66,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656502192305</updated>
-      <workItem from="1656502202803" duration="7186000" />
+      <workItem from="1656502202803" duration="10033000" />
     </task>
     <task id="LOCAL-00001" summary="Fisrt Push : Hello World!">
       <created>1656502553121</created>
@@ -82,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656504499367</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added too much stuff, actually , not that much">
+      <created>1656516035671</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656516035671</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +110,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fisrt Push : Hello World!" />
     <MESSAGE value="Added the first line" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the first line" />
+    <MESSAGE value="Added too much stuff, actually , not that much" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added too much stuff, actually , not that much" />
   </component>
 </project>
