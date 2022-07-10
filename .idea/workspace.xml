@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f7303d4-49f3-4cf6-8d00-d86a00e048d4" name="Changes" comment="Added too much stuff, actually , not that much">
+    <list default="true" id="5f7303d4-49f3-4cf6-8d00-d86a00e048d4" name="Changes" comment="Added duration calculation">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DateTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MinirinGUI.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/MinirinGUI.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MinirinGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MinirinGUI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PrincipalProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrincipalProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,20 +39,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlite&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrincipalProgram" />
@@ -67,7 +76,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656502192305</updated>
-      <workItem from="1656502202803" duration="10033000" />
+      <workItem from="1656502202803" duration="16863000" />
+      <workItem from="1656703277892" duration="2536000" />
+      <workItem from="1657431299956" duration="3433000" />
     </task>
     <task id="LOCAL-00001" summary="Fisrt Push : Hello World!">
       <created>1656502553121</created>
@@ -90,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656516035671</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added duration calculation">
+      <created>1656522265774</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656522265774</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +129,7 @@
     <MESSAGE value="Fisrt Push : Hello World!" />
     <MESSAGE value="Added the first line" />
     <MESSAGE value="Added too much stuff, actually , not that much" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added too much stuff, actually , not that much" />
+    <MESSAGE value="Added duration calculation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added duration calculation" />
   </component>
 </project>

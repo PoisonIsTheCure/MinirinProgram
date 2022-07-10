@@ -3,6 +3,7 @@ public class PrincipalProgram {
     public static void main(String[] args){
         System.out.println("Program First code !!");
         TestModule.datetime();
+        MinirinGUI M = new MinirinGUI();
     }
 }
 
@@ -24,5 +25,9 @@ class TestModule {
         System.out.println("Difference in Minutes : "+minutes);
         System.out.println("Difference in HH:mm : "+diff);
 
+    }
+
+    static void database(){
+        System.out.println("Creating DataBase.... ");
     }
 }
