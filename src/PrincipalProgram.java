@@ -2,12 +2,14 @@
 public class PrincipalProgram {
     public static void main(String[] args){
         System.out.println("Program First code !!");
-        TestModule.datetime();
-        MinirinGUI M = new MinirinGUI();
+        TestModule.testGUI();
     }
 }
 
 class TestModule {
+    static void testGUI(){
+        MinirinGUI M = new MinirinGUI();
+    }
     static void datetime(){
         System.out.println("#### Testing DateTime Module : ");
         // Creating two differents dates

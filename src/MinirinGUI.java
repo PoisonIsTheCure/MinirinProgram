@@ -1,6 +1,8 @@
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.event.FocusAdapter;
+import java.awt.event.FocusEvent;
 
 public class MinirinGUI extends JFrame{
 
@@ -12,6 +14,11 @@ public class MinirinGUI extends JFrame{
     private JButton old60B;
     private JFormattedTextField dt120B;
     private JFormattedTextField dt60B;
+    private JButton readFolderB;
+    private JButton viewDataB;
+    private JButton dose10B;
+    private JButton old10B;
+    private JFormattedTextField dt10B;
 
     public MinirinGUI(){
         setContentPane(form1);
@@ -28,5 +35,20 @@ public class MinirinGUI extends JFrame{
         });
 
 
+        dt120B.addFocusListener(new FocusAdapter() {
+            @Override
+            public void focusGained(FocusEvent e) {
+                super.focusGained(e);
+                dt120B.setText("");
+            }
+        });
+
+        dt60B.addFocusListener(new FocusAdapter() {
+            @Override
+            public void focusGained(FocusEvent e) {
+                super.focusGained(e);
+                dt60B.setText("");
+            }
+        });
     }
 }
